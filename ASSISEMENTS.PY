@@ -39,6 +39,7 @@ print("Outside function, global x:", x)  # Global x will be printed
 
 
 #2-Operators
+
 #Write a function for arithmetic operators(+,-,*,/)
 def arithmetic_operations(a, b, operator):
     if operator == '+':
